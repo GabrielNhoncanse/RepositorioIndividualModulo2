@@ -1,7 +1,7 @@
-const conteudo = document.querySelector(".conteudo");
+var conteudo = document.querySelector(".conteudo");
 
 function mostrar() {
-    if (conteudo.style.display == 'block') {
+    if (conteudo.style.display === 'block') {
         conteudo.style.display = 'none'
     }
     else {
