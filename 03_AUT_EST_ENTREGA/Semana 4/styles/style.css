@@ -25,8 +25,9 @@
     display: flex;
     margin: auto;
     background-color: #9df8ff;
+    cursor: pointer;
 }
 
 .conteudo {
-    display: block;
+    display: none;
 }
