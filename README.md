@@ -16,3 +16,5 @@ Minhas entregas estão definidas aqui:
 <a href="https://github.com/GabrielNhoncanse/RepositorioIndividualModulo2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%205"> Entrega - Semana 5 </a>
 <br>
 <a href="https://github.com/GabrielNhoncanse/RepositorioIndividualModulo2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%207"> Entrega - Semana 7 </a>
+<br>
+<a href="https://github.com/GabrielNhoncanse/RepositorioIndividualModulo2/tree/main/04_AUT_EST_EX_OBRIGATORIOS/Semana%209"> Entrega - Semana 9 </a>
