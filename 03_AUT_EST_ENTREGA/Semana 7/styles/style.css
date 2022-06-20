@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.upper-case {
+    font-size: 30px;
+}
+
+.editar {
+    width: 500px;
+}
+
+.bronze {
+    color: rgb(125, 86, 36)
+}
+
+.prata {
+    color: rgb(93, 93, 93)
+}
+
+.titulo {
+    color: rgb(0, 0, 0);
+    background-color: #9df8ff;
+}
+
+.botao {
+    display: flex;
+    margin: auto;
+    background-color: #9df8ff;
+    cursor: pointer;
+}
+
+.conteudo {
+    display: none;
+}
